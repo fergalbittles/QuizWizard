@@ -1,0 +1,250 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "category": "music",
+      "question": "Who is the lead vocalist of the band Queen?",
+      "answers": [
+        "Freddie Mercury",
+        "John Lennon",
+        "Mick Jagger",
+        "Elvis Presley"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 2,
+      "category": "music",
+      "question": "Which artist released the album 'Thriller'?",
+      "answers": [
+        "Prince",
+        "David Bowie",
+        "Michael Jackson",
+        "Whitney Houston"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 3,
+      "category": "music",
+      "question": "Which pop star is known for the hit song 'Baby One More Time'?",
+      "answers": [
+        "Christina Aguilera",
+        "Britney Spears",
+        "Miley Cyrus",
+        "Katy Perry"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "music",
+      "question": "Which instrument is primarily associated with jazz music?",
+      "answers": [
+        "Violin",
+        "Saxophone",
+        "Cello",
+        "Trombone"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 5,
+      "category": "music",
+      "question": "Which instrument is also known as the 'fiddle'?",
+      "answers": [
+        "Violin",
+        "Cello",
+        "Banjo",
+        "Double Bass"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "animals": [
+    {
+      "id": 6,
+      "category": "animals",
+      "question": "Which of the following is the largest mammal?",
+      "answers": [
+        "Cat",
+        "Great white shark",
+        "Python",
+        "Saltwater crocodile"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 7,
+      "category": "animals",
+      "question": "Which bird is known for its ability to mimic human speech?",
+      "answers": [
+        "Parrot",
+        "Eagle",
+        "Ostrich",
+        "Penguin"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 8,
+      "category": "animals",
+      "question": "What is the fastest land animal?",
+      "answers": [
+        "Lion",
+        "Cheetah",
+        "Gazelle",
+        "Horse"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 9,
+      "category": "animals",
+      "question": "What is the primary diet of a panda?",
+      "answers": [
+        "Fish",
+        "Bamboo",
+        "Meat",
+        "Insects"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 10,
+      "category": "animals",
+      "question": "Which animal is known for having a pouch to carry its young?",
+      "answers": [
+        "Kangaroo",
+        "Elephant",
+        "Penguin",
+        "Lion"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "geography": [
+    {
+      "id": 11,
+      "category": "geography",
+      "question": "What is the capital of Japan?",
+      "answers": [
+        "Bangkok",
+        "Tokyo",
+        "Beijing",
+        "Seoul"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 12,
+      "category": "geography",
+      "question": "Which ocean is the largest?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": 13,
+      "category": "geography",
+      "question": "Mount Everest is located in which mountain range?",
+      "answers": [
+        "Himalayas",
+        "Andes",
+        "Rocky Mountains",
+        "Alps"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 14,
+      "category": "geography",
+      "question": "Which country has the largest population?",
+      "answers": [
+        "India",
+        "United States",
+        "Indonesia",
+        "China"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": 15,
+      "category": "geography",
+      "question": "What is the largest desert in the world?",
+      "answers": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Arctic Desert",
+        "Antarctic Desert"
+      ],
+      "correctAnswerIndex": 3
+    }
+  ],
+  "computing": [
+    {
+      "id": 16,
+      "category": "computing",
+      "question": "What is the main function of RAM in a computer?",
+      "answers": [
+        "Storage",
+        "Processing",
+        "Memory",
+        "Graphics"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 17,
+      "category": "computing",
+      "question": "Which company is known for the search engine 'Bing'?",
+      "answers": [
+        "Yahoo",
+        "Microsoft",
+        "Google",
+        "Amazon"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "computing",
+      "question": "Which of the following is an open-source operating system?",
+      "answers": [
+        "Windows",
+        "iOS",
+        "Linux",
+        "MacOS"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 19,
+      "category": "computing",
+      "question": "Who should you hire as a software engineer?",
+      "answers": [
+        "John Doe",
+        "Jane Smith",
+        "Fergal Bittles",
+        "Another candidate"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 20,
+      "category": "computing",
+      "question": "What is the best CRM solution for iGaming platforms?",
+      "answers": [
+        "Slow Lane",
+        "Backtrack CRM",
+        "Crawl Speed",
+        "Fast Track"
+      ],
+      "correctAnswerIndex": 3
+    }
+  ]
+}
